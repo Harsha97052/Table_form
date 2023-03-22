@@ -1,0 +1,82 @@
+body{
+    background-image:url("https://images.pexels.com/photos/317356/pexels-photo-317356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat:no repeat;
+    background-attachment:fixed;
+    background-size:cover;
+  }
+ table,th,td{
+       text-align:center;
+       margin:10px auto 10px auto;
+       
+       border:2px solid DarkSlateGrey;
+       border-radius:5px;
+       padding:2px;
+  }
+ h1{
+    text-align:center;
+    border:6px solid SlateGrey;
+    width:25%;
+    height:50px;
+    font-size:220%;
+    vertical-align:center;
+    line-height:50px;
+    margin:10px auto 10px auto;
+    background-color:LightSteelBlue;
+    font-family: 'Secular One', sans-serif;
+  }
+ .row:hover{
+   background-color:Beige; 
+  }
+ #hov:hover{
+   background-color:LightCyan; 
+  }
+ .hov1:hover{
+     background-color:Khaki;
+  }
+ .heading{
+       font-size:150%;
+       font-family: 'Bebas Neue', cursive;
+       background-color:Tomato;
+  }
+ .subheading{
+       font-size:120%;
+       font-family: 'Bebas Neue', cursive;
+       background-color:Tomato;
+  }
+ .link{
+       color:MediumAquaMarine;
+       font-size:100%;
+       font-family: 'Kalam', cursive;
+       font-weight:bold;
+  }
+ .par {
+    font-size:160%;
+    font-family: 'Signika Negative', sans-serif;
+    padding:10px;
+  }
+ .day {
+   font-family: 'Teko', sans-serif;
+   font-size:120%;
+   background-color:Tomato;
+  }
+ .subheading1{
+       background-color:Tomato;
+       font-family: 'Bebas Neue', cursive;
+  }
+ .btn{
+     color:DarkSlateGrey;
+     font-family: 'Fredoka One', cursive;
+  }
+ #head{
+      padding:15px;
+  }
+ #box{
+     padding:20px;
+  }
+ .mail{
+     font-family: 'Fredoka One', cursive;
+     color:RoyalBlue;
+  }
+ #topic{
+       font-size:150%;
+  }
